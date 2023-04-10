@@ -30,5 +30,5 @@ console.log('Removendo cliente com CPF 12345678901');
 clientes.remover('12345678901');
 console.log('Listando clientes após remover:');
 console.log(clientes.listar());
-console.log('Pesquisando cliente com CPF 987.654.321-01');
-console.log(clientes.pesquisar('987.654.321-01'));
+console.log('Pesquisando cliente com CPF 56789012345');
+console.log(clientes.pesquisar('56789012345'));
